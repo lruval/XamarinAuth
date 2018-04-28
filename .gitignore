@@ -2,6 +2,18 @@
 *.apk
 *.ap_
 
+# Visual Studio
+MobileApps\MobileApps\bin
+MobileApps\MobileApps\obj
+MobileApps\MobileApps.Android\bin
+MobileApps\MobileApps.Android\obj
+MobileApps\MobileApps.iOS\bin
+MobileApps\MobileApps.iOS\obj
+MobileAppsMobileApps.MobileAppService\bin
+MobileAppsMobileApps.MobileAppService\obj
+MobileApps\MobileApps.UWP\bin
+MobileApps\MobileApps.UWP\obj
+
 # Files for the ART/Dalvik VM
 *.dex
 
